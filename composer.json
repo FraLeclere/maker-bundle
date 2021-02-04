@@ -2,7 +2,7 @@
     "description": "Fork of Symfony Maker helps you create empty commands, controllers, form classes, tests and more so you can forget about writing boilerplate code. Add error-pages maker to enter the open source world. Will be delated after scholar year end ",
     "homepage": "https://github.com/fra-leclere/maker-bundle",
     "name": "fra-leclere/maker-bundle",
-    "type": "symfony-bundle",
+    "type": "fra-leclere-bundle",
     "license": "MIT",
     "keywords": ["generator", "code generator", "scaffolding", "scaffold"],
     "authors": [
@@ -30,7 +30,7 @@
         "symfony/finder": "^3.4|^4.0|^5.0",
         "symfony/framework-bundle": "^3.4|^4.0|^5.0",
         "symfony/http-kernel": "^3.4|^4.0|^5.0",
-        "symfony/maker-bundle": "dev-maker"
+        "symfony/maker-bundle": "dev-makererrorpages"
     },
     "require-dev": {
         "composer/semver": "^3.0@dev",
